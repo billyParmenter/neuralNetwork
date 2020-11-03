@@ -10,3 +10,5 @@ been tested.
 
 The netManager.cs file is used when training a population of neural networks. It
 handles the creation of the next generation.
+
+![alt text](/neuralNetClassDiagram.png)
